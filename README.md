@@ -22,6 +22,6 @@
 
 
 <p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ddz16&show_icons=true&theme=tokyonight" />
+   <img width="48%" src="https://readme-stats.jonas-bernard.dev/api?username=ddz16&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ddz16&theme=tokyonight" />
 </p>
