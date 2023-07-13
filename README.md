@@ -6,7 +6,7 @@
 
 - 😀 You can follow me on [**Zhihu**](https://www.zhihu.com/people/ddz-73).
 
-- 📧 How to reach me **1170392166@qq.com**.
+- 📧 How to reach me **dudazhao16@gmail.com**.
 
 
 <h3 align="left">Universities and Institutions:</h3>
