@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddz16&label=Profile%20views&color=0e75b6&style=flat" alt="ddz16" /> </p>
 
-- 📚 I am interested in **time series forecasting & video understanding**. I’m currently learning **Diffusion**.
+- 📚 I am interested in **time series forecasting & video understanding**. In terms of video understanding, I am focusing on intelligent processing for **underwater untrimmed long videos**.
 
 - 😀 You can follow me on [**Zhihu**](https://www.zhihu.com/people/ddz-73).
 
