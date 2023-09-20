@@ -16,9 +16,9 @@
 <div align="center">
 <p> 
    <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/63d0f703918fa0ec08faacc53fde4eee3d6d54fb6deb" alt="tsinghua" width="80" height="80"/> </a> 
-   <a href="https://www.bytedance.com/zh/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/21a4462309f79052982293b04fa4c0ca7bcb0b467fbf" alt="tiktok" width="80" height="80"/> </a> 
    <a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/0df3d7ca7bcb0a46162bebcb6163f6246b60af33" alt="ucas" width="80" height="80"/> </a> 
    <a href="http://www.iscas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/0bd162d9f2d3572c74c412de8d13632762d0c38a" alt="iscas" width="80" height="80"/> </a> 
+   <a href="https://www.bytedance.com/zh/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/21a4462309f79052982293b04fa4c0ca7bcb0b467fbf" alt="tiktok" width="80" height="80"/> </a> 
 </p>
 </div>
 
