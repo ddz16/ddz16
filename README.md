@@ -6,8 +6,6 @@
 
 - 😀 You can follow me on [**Zhihu**](https://www.zhihu.com/people/ddz-73).
 
-- 🎓 Here is my [**Google Scholar**](https://scholar.google.com.hk/citations?user=jiiYfFcAAAAJ&hl).
-
 - 📧 How to reach me **dudazhao16@gmail.com**.
 
 
