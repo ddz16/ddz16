@@ -17,7 +17,7 @@
    <a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/0df3d7ca7bcb0a46162bebcb6163f6246b60af33" alt="ucas" width="80" height="80"/> </a> 
    <a href="http://www.iscas.ac.cn/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/0bd162d9f2d3572c74c412de8d13632762d0c38a" alt="iscas" width="80" height="80"/> </a> 
    <a href="https://www.bytedance.com/zh/" target="_blank" rel="noreferrer"> <img src="https://bkimg.cdn.bcebos.com/pic/21a4462309f79052982293b04fa4c0ca7bcb0b467fbf" alt="tiktok" width="80" height="80"/> </a> 
-   <a href="https://hkust.edu.hk/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fzh-yue.wikipedia.org%2Fwiki%2F%25E9%25A6%2599%25E6%25B8%25AF%25E7%25A7%2591%25E6%258A%2580%25E5%25A4%25A7%25E5%25AD%25B8&psig=AOvVaw3lqJsftNM24cR5RV_W-pEe&ust=1763737209074000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDW56b_gJEDFQAAAAAdAAAAABAE" alt="hkust" width="80" height="80"/> </a> 
+   <a href="https://hkust.edu.hk/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/zh-yue/7/77/HKUST.svg" alt="hkust" width="80" height="80"/> </a> 
 </p>
 </div>
 
