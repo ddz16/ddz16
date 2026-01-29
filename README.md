@@ -9,7 +9,7 @@
 - 📧 How to reach me **dudazhao16@gmail.com**.
 
 
-<h2>&nbsp Universities and Institutions</h2>
+<h2><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI5OHdzaGh1N242bnYyYTJpbDFnNnN6MTFvdW5temhldmM4bjZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dBrXAuiJQpBTgFhHFH/giphy.gif" width ="38">&nbsp Universities and Institutions</h2>
 
 <div align="center">
 <p> 
@@ -33,11 +33,9 @@
   <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<!--
-## &#128202; Git Stats
--->
 
-<h2 ><img src ="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1>
+<h2><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRtaWxpMmx3Z2FjMTQ0cWt4MWVhNm5jcXh6cXdyOXZsOGJ5dzl1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width ="45">&nbsp Git Stats</h2>
+
 <div align="center">
 <a  href="https://github-readme-stats-mu-teal-19.vercel.app/api?username=ddz16&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true">
   <img align="center" width="53%" src="https://github-readme-stats-mu-teal-19.vercel.app/api?username=ddz16&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true"/>
